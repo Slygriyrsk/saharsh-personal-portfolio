@@ -44,13 +44,13 @@ To view or modify the portfolio website locally, follow these steps:
 
 ###  1\.  Clone the Repository:
 
-    git clone https://github.com/Slygriyrsk/personal-portfolio.git
+    git clone https://github.com/Slygriyrsk/saharsh-personal-portfolio.git
 
 
 ###  2\.  Navigate to the Project Directory:
 
     
-    cd personal-portfolio
+    cd saharsh-personal-portfolio
     
 
 ###  3\.  Open the `index.html` File:
